@@ -1,0 +1,1 @@
+🌳️🌐️🚫️🔏️🚫️💾️ Bliss Browser does not actually support DRM, and never will. This repository is for information regarding this, DRM blocking and circumvention, and other tools and info regarding the problems with DRM.
